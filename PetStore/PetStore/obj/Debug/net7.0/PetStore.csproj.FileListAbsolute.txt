@@ -1,0 +1,15 @@
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\bin\Debug\net7.0\PetStore.exe
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\bin\Debug\net7.0\PetStore.deps.json
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\bin\Debug\net7.0\PetStore.runtimeconfig.json
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\bin\Debug\net7.0\PetStore.dll
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\bin\Debug\net7.0\PetStore.pdb
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\PetStore.csproj.AssemblyReference.cache
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\PetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\PetStore.AssemblyInfoInputs.cache
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\PetStore.AssemblyInfo.cs
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\PetStore.csproj.CoreCompileInputs.cache
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\PetStore.dll
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\refint\PetStore.dll
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\PetStore.pdb
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\PetStore.genruntimeconfig.cache
+C:\Users\droor\Documents\Projects\SDM1\PetStore\PetStore\obj\Debug\net7.0\ref\PetStore.dll
